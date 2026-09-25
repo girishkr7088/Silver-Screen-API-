@@ -1,1 +1,1 @@
-# Silver-Screen-API- with AI (chatgpt) integration
+# Silver-Screen-API- with AI ChatGpt
